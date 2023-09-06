@@ -1,0 +1,26 @@
+#div1 span:hover{
+    background-color:blanchedalmond;
+
+}
+#tit1:hover{
+    background-color:black;
+
+}
+#div2{
+    color:black;
+    font-size: large;
+    font-weight:bolder;
+}
+#div3:a:hover{
+    background-color: yellow;
+}
+html{
+    scroll-behavior: smooth;
+}
+.labels{
+    margin-left:350px;
+    color:red;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
